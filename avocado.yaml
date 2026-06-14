@@ -4,7 +4,7 @@ supported_targets:
 
 extensions:
   avocado-bsp-qemuarm64:
-    version: 2024.1.0
+    version: 0.1.0
     release: r0
     summary: Board support for QEMU ARM64
     description: Board support for QEMU ARM64 virtual machine
